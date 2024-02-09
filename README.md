@@ -4,8 +4,6 @@
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
 - Vite
@@ -16,14 +14,14 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://js-vite-template.netlify.app/)
+[Live Demo Link](https://js-react-template.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/js-vite-template.git
+git clone https://github.com/moshoodabdullahi/js-react-template.git
 
 ```
 
@@ -110,9 +108,9 @@ yarn test
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@moshoodabdullahi](https://github.com/moshoodabdullahi)
+- Twitter: [@moshoodabdullahi](https://twitter.com/moshoodabdullahi)
+- Linkedin: [@moshoodabdullahi](https://www.linkedin.com/in/moshoodabdullahi/)
 
 ## 🤝 Contributing
 
@@ -126,9 +124,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
 
 ## 📝 License
 
